@@ -1,5 +1,7 @@
 # Event Registration Website 2.0
-![php](https://img.shields.io/badge/Made%20with-Php-blue?style=for-the-badge&logo=php)
+![php](https://img.shields.io/badge/Made%20with-Php-purple?style=for-the-badge&logo=php)
+![html](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge&logo=html)
+![css](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge&logo=css)
 # Overview of the Project
 > The project consists of the following pages
 >- A Landing page.
