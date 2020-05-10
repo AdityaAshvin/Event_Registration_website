@@ -38,6 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 >- Open your browser and paste this url *http://localhost/phpmyadmin/*
 >- Create a database with name as **event_registration**. Then create a table named as **admin** in the database. create four colums one each for ***id, username, email and password***.
 >- In the same database create a table with name as **participant**. Create four colums one each for ***id, username, email and password***.
+>- In the same database also create a table with name as **events**. Create four colums one each for ***id, title, header and body***.
 >- Once you have done the above mentioned steps the project will be up and running in your local machine.
 
 ### LandingPage:-
