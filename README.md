@@ -38,11 +38,15 @@ These instructions will get you a copy of the project up and running on your loc
 >- Once you have done the above mentioned steps the project will be up and running in your local machine.
 
 ### LandingPage:-
-![landingPage](images/LandingPage_improvedUI.png)
-### admin dashboard:-
-![admin dashboard](images/admin_dashboard.png)
-### admin login page:-
-![admin login](images/Admin_Login_and_registration_page.png)
-### participant login and registration page:-
-![participant login and registration](images/Participant_Login_and_registration_page.png)
+![landingPage](images/LandingPage.jpg)
+### Admin dashboard HomePage:-
+![admin dashboard](images/adminDashboard_Home.jpg)
+### Admin dashboard UsersPage:-
+![admin dashboard](images/adminDashboard_Users.jpg)
+### Admin login page:-
+![admin login](images/Admin_Login_and_Registration.png)
+### Participant login and registration page:-
+![participant login and registration](images/Participant_Registration_and_Login.png)
+### Participant dashboard:-
+![participant dashboard](images/participantDashboard.jpg)
 ## Created by Aditya Ashvin.
