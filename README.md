@@ -41,7 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 >- Once you have done the above mentioned steps the project will be up and running in your local machine.
 
 ### LandingPage:-
-![landingPage](Images/LandingPage.jpg)
+![landingPage](images/LandingPage.JPG)
 ### Admin dashboard HomePage:-
 ![admin dashboard](images/adminDashboard_Home.jpg)
 ### Admin dashboard UsersPage:-
