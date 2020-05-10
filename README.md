@@ -1,7 +1,7 @@
 # Event Registration Website 2.0
 ![php](https://img.shields.io/badge/Made%20with-Php-purple?style=for-the-badge&logo=php)
-![html](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge&logo=html)
-![css](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge&logo=css)
+![html](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge&logo=HTML)
+![css](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge&logo=CSS)
 # Overview of the Project
 > The project consists of the following pages
 >- A Landing page.
@@ -43,13 +43,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### LandingPage:-
 ![landingPage](images/LandingPage.JPG)
 ### Admin dashboard HomePage:-
-![admin dashboard](images/adminDashboard_Home.JPG)
+![admin dashboard](images/AdminDashboard_Home.JPG)
 ### Admin dashboard UsersPage:-
-![admin dashboard](images/adminDashboard_Users.JPG)
+![admin dashboard](images/AdminDashboard_Users.JPG)
 ### Admin login page:-
 ![admin login](images/Admin_Login_and_Registration.JPG)
 ### Participant login and registration page:-
 ![participant login and registration](images/Participant_Registration_and_Login.JPG)
 ### Participant dashboard:-
-![participant dashboard](images/participantDashboard.JPG)
+![participant dashboard](images/ParticipantDashboard.JPG)
 ## Created by Aditya Ashvin.
