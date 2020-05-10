@@ -43,13 +43,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### LandingPage:-
 ![landingPage](images/LandingPage.JPG)
 ### Admin dashboard HomePage:-
-![admin dashboard](images/adminDashboard_Home.jpg)
+![admin dashboard](images/adminDashboard_Home.JPG)
 ### Admin dashboard UsersPage:-
-![admin dashboard](images/adminDashboard_Users.jpg)
+![admin dashboard](images/adminDashboard_Users.JPG)
 ### Admin login page:-
-![admin login](images/Admin_Login_and_Registration.png)
+![admin login](images/Admin_Login_and_Registration.JPG)
 ### Participant login and registration page:-
-![participant login and registration](images/Participant_Registration_and_Login.png)
+![participant login and registration](images/Participant_Registration_and_Login.JPG)
 ### Participant dashboard:-
-![participant dashboard](images/participantDashboard.jpg)
+![participant dashboard](images/participantDashboard.JPG)
 ## Created by Aditya Ashvin.
