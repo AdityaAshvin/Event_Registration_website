@@ -1,0 +1,27 @@
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 40px!important;
+    font-family: cursive!important;
+}
+
+body{
+    background-color: skyblue!important;
+}
+
+.navbar{
+    height: 50px!important;
+}
+
+.events{
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+    font-family: cursive;
+}
+.title{
+    font-family: fantasy;
+}
