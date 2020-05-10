@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    font-family: cursive;
+}
+
+body{
+    background-color: skyblue!important;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 40px;
+    font-family: cursive;
+}
+
+.navbar{
+    height:50px;
+}

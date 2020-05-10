@@ -1,0 +1,20 @@
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+
+body{
+    background-color: skyblue!important;
+}
+
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.main{
+    padding: 50px;
+}
