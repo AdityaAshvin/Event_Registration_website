@@ -51,5 +51,5 @@ These instructions will get you a copy of the project up and running on your loc
 ### Participant login and registration page:-
 ![participant login and registration](images/Participant_Registration_and_Login.JPG)
 ### Participant dashboard:-
-![participant dashboard](images/ParticipantDashboard.JPG)
+![participant dashboard](images/Participant_Dashboard.JPG)
 ## Created by Aditya Ashvin.
