@@ -62,20 +62,22 @@ function Table($query)
 <h1>Upcoming Events</h1>
 <hr>
 </div>
+
+
 <?php while($row = mysqli_fetch_array($search_result)):?>
-
-
-  <div class="events">
-    <div class="title"><h2><?php echo $row['title'];?></div></h2>
-    <div class="heading"><h3><?php echo $row['header'];?><div></h3>
-    <?php $_SESSION['body']=$row['body']; ?>
-    <form action="event-page.php">
-    <button type="submit" class="btn btn-primary"> Learn More </button>
-    </form>
-    <hr>
+<div class="row align-centre">
+<div class= "col-md-4 my-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://source.unsplash.com/1600x900/?party,event" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"><?php echo $row['title'];?></h5>
+    <p class="card-text"><?php echo $row['body'];?></p>
+    <a href="#" class="btn btn-primary">View More</a>
   </div>
- 
+</div>
 <?php endwhile;?>
+
+
 
 <footer class="footer fixed-bottom">
 <h4>This website is created with <i class="fa fa-heart"></i> by Aditya Ashvin</h4>

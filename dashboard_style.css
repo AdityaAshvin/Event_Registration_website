@@ -1,4 +1,4 @@
-footer{
+.footer{
     text-align: center;
     background-color: black;
     color: white;
@@ -12,10 +12,6 @@ body{
 
 .navbar{
     height: 50px!important;
-}
-
-.events{
-    text-align: center;
 }
 
 .header{
