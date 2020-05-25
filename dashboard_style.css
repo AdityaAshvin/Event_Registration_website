@@ -21,3 +21,7 @@ body{
 .title{
     font-family: fantasy;
 }
+
+.pagename{
+    text-align: right !important;
+}

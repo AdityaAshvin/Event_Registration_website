@@ -58,26 +58,29 @@ function Table($query)
     return $filter_Result;
 }
 ?>
-<div class="header">
-<h1>Upcoming Events</h1>
-<hr>
-</div>
 
+<div class= "container my-3">
+  <h1 class="text-center my-3"> Upcoming Events </h1>
+  <div class="row">
+  
+    <?php while($row = mysqli_fetch_assoc($search_result)){
 
-<?php while($row = mysqli_fetch_array($search_result)):?>
-<div class="row align-centre">
-<div class= "col-md-4 my-3">
-<div class="card" style="width: 18rem;">
-  <img src="https://source.unsplash.com/1600x900/?party,event" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title"><?php echo $row['title'];?></h5>
-    <p class="card-text"><?php echo $row['body'];?></p>
+    $title = $row['title'];
+    $body = $row['body'];
+    echo '<div class= "col-md-4 my-2">
+    <div class="card" style="width: 18rem;">
+    <img src="https://source.unsplash.com/1600x900/?' .$title. '" class="card-img-top" alt="...">
+    <div class="card-body">
+    <h5 class="card-title">' .$title. '</h5>
+    <p class="card-text"> ' . substr($body, 0,100). '...</p>
     <a href="#" class="btn btn-primary">View More</a>
+    </div>
   </div>
-</div>
-<?php endwhile;?>
+</div> ';
 
+}
 
+?>
 
 <footer class="footer fixed-bottom">
 <h4>This website is created with <i class="fa fa-heart"></i> by Aditya Ashvin</h4>
